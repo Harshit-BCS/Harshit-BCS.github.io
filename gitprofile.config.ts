@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['Harshit-BCS/Tic-Tac-Toe','Harshit-BCS/portfolio-website','Harshit-BCS/chatbot-using-stanford-nlp'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['Harshit-BCS/gitprofile'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -80,57 +80,51 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'JAVA',
+    'Spring Boot',
     'JavaScript',
     'React.js',
     'Node.js',
-    'Nest.js',
+    'Angular',
+    'TypeScript',
+    'GraphQL',
     'MySQL',
     'PostgreSQL',
     'Git',
     'Docker',
-    'PHPUnit',
+    'AWS (Amazon Web Services)',
     'CSS',
-    'Antd',
-    'Tailwind',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Velocis Systems Pvt. Ltd.',
+      position: 'Software Developer',
+      from: 'October 2022 ',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.velocis.in/',
     },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
-    },
+    
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Java Full Stack',
+      body: 'Java Fundamentals, Front-End Development, Back-End Development, Database Management',
+      year: 'September 2022',
+      link: 'https://www.ducatindia.com/javafullstackdeveloper',
+    },
+    {
+      name: 'Android Using Kotlin',
+      body: 'Java Fundamentals',
+      year: 'September 2022',
+      link: 'https://www.ducatindia.com/androidtraining',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Mahatma Gandhi Chitrakoot Gramodaya Vishwavidyalaya',
+      degree: 'Bachelor in Computer',
+      from: '2018',
+      to: '2021',
     },
   ],
   publications: [
