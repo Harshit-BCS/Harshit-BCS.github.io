@@ -65,12 +65,13 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'Harshit Singh',
+    linkedin: 'Harshit-Singh01',
     twitter: 'HarshitSin31180',
     mastodon: '',
     researchGate: '',
     facebook: '',
     instagram: '___kunwar___',
+    instagram: ''
     youtube: 'wittedtech', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
