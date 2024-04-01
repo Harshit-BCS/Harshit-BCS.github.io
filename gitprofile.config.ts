@@ -85,7 +85,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://beige-lauralee-42.tiiny.site', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/Harshit-BCS/gitprofile/blob/main/src/assets/Harshit_Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'JAVA',
