@@ -57,27 +57,27 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'Harshit Singh',
+    twitter: 'HarshitSin31180',
+    mastodon: '',
     researchGate: '',
     facebook: '',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: 'https://harshit-singh.framer.ai/',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'ceh.harshit@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/Harshit-BCS/gitprofile/blob/main/src/assets/Harshit_Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'JAVA',
