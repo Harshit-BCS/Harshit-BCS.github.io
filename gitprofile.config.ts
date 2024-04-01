@@ -65,7 +65,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'Harshit-Singh01',
+    linkedin: 'harshit-singh01',
     twitter: 'HarshitSin31180',
     mastodon: '',
     researchGate: '',
