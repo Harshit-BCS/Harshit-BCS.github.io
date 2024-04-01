@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Confidently navigates cloud computing with AWS and GCP, skillfully managing containers with Docker. My battlefield is none other than Velocis Systems Private Limited, where i am instrumental in developing a massive warehousing and transaction management application for CONCOR, under the Ministry of Railways.',
           imageUrl:
-            './src/assets/concor.png',
+            'https://ibb.co/LhKkXnC',
           link: 'http://216.48.184.75/login',
         },
         {
@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'Demonstration of DSA Knowledge using JavaScript. Uses Backtrack Algorithm.',
           imageUrl:
-            './src/assets/sudoku.png',
+            'https://ibb.co/xH1zHTM',
           link: 'https://harshit-bcs.github.io/Harshit-BCS.github.io-Sudoku/',
         },
         {
@@ -53,7 +53,7 @@ const CONFIG = {
           description:
             'Demonstration of HTML CSS and Javascript.',
           imageUrl:
-            './src/assets/tic-tac-toe.png',
+            'https://ibb.co/XZ6zJw4',
           link: 'https://harshit-bcs.github.io/Harshit-BCS.github.io-TicTacToe/',
         },
       ],
@@ -62,7 +62,7 @@ const CONFIG = {
   seo: {
     title: 'Portfolio of Harshit Singh',
     description: '',
-    imageURL: './src/assets/gitProfileImg.jpeg',
+    imageURL: 'https://ibb.co/dL3gDF2',
   },
   social: {
     linkedin: 'Harshit Singh',
@@ -85,7 +85,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/Harshit-BCS/gitprofile/blob/main/src/assets/Harshit_Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://beige-lauralee-42.tiiny.site', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'JAVA',
