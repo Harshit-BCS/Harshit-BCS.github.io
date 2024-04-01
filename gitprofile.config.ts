@@ -62,7 +62,7 @@ const CONFIG = {
   seo: {
     title: 'Portfolio of Harshit Singh',
     description: '',
-    imageURL: 'https://ibb.co/dL3gDF2',
+    imageURL: 'https://ibb.co/ZmG2rTK',
   },
   social: {
     linkedin: 'Harshit Singh',
