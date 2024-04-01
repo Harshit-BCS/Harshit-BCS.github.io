@@ -33,20 +33,28 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'ITMS : Integrated Terminal Management System',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Confidently navigates cloud computing with AWS and GCP, skillfully managing containers with Docker. My battlefield is none other than Velocis Systems Private Limited, where i am instrumental in developing a massive warehousing and transaction management application for CONCOR, under the Ministry of Railways.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/Harshit-BCS/gitprofile/blob/main/src/assets/concor.png',
+          link: 'http://216.48.184.75/login',
         },
         {
-          title: 'Project Name',
+          title: 'SUDOKU : An Brain Freezer',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Demonstration of DSA Knowledge using JavaScript. Uses Backtrack Algorithm.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/Harshit-BCS/gitprofile/blob/main/src/assets/sudoku.png',
+          link: 'https://harshit-bcs.github.io/Harshit-BCS.github.io-Sudoku/',
+        },
+        {
+          title: 'TIC TAC TOE : X and O Game',
+          description:
+            'Demonstration of HTML CSS and Javascript.',
+          imageUrl:
+            'https://github.com/Harshit-BCS/gitprofile/blob/main/src/assets/tic-tac-toe.png',
+          link: 'https://harshit-bcs.github.io/Harshit-BCS.github.io-TicTacToe/',
         },
       ],
     },
@@ -54,7 +62,7 @@ const CONFIG = {
   seo: {
     title: 'Portfolio of Harshit Singh',
     description: '',
-    imageURL: '',
+    imageURL: 'https://github.com/Harshit-BCS/gitprofile/blob/main/src/assets/gitProfileImg.jpeg',
   },
   social: {
     linkedin: 'Harshit Singh',
@@ -62,8 +70,8 @@ const CONFIG = {
     mastodon: '',
     researchGate: '',
     facebook: '',
-    instagram: '',
-    youtube: '', // example: 'pewdiepie'
+    instagram: '___kunwar___',
+    youtube: 'wittedtech', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
     medium: '',
