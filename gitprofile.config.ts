@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'Harshit-BCS/Tic-Tac-Toe','Harshit-BCS/portfolio-website','Harshit-BCS/chatbot-using-stanford-nlp'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['Harshit-BCS/Tic-Tac-Toe','Harshit-BCS/portfolio-website','Harshit-BCS/chatbot-using-stanford-nlp'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Harshit Singh',
     description: '',
     imageURL: '',
   },
@@ -232,7 +232,7 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://github.com/Harshit-BCS/gitprofile"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
