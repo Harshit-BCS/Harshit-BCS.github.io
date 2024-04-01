@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Confidently navigates cloud computing with AWS and GCP, skillfully managing containers with Docker. My battlefield is none other than Velocis Systems Private Limited, where i am instrumental in developing a massive warehousing and transaction management application for CONCOR, under the Ministry of Railways.',
           imageUrl:
-            'https://github.com/Harshit-BCS/gitprofile/blob/main/src/assets/concor.png',
+            './src/assets/concor.png',
           link: 'http://216.48.184.75/login',
         },
         {
@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'Demonstration of DSA Knowledge using JavaScript. Uses Backtrack Algorithm.',
           imageUrl:
-            'https://github.com/Harshit-BCS/gitprofile/blob/main/src/assets/sudoku.png',
+            './src/assets/sudoku.png',
           link: 'https://harshit-bcs.github.io/Harshit-BCS.github.io-Sudoku/',
         },
         {
@@ -53,7 +53,7 @@ const CONFIG = {
           description:
             'Demonstration of HTML CSS and Javascript.',
           imageUrl:
-            'https://github.com/Harshit-BCS/gitprofile/blob/main/src/assets/tic-tac-toe.png',
+            './src/assets/tic-tac-toe.png',
           link: 'https://harshit-bcs.github.io/Harshit-BCS.github.io-TicTacToe/',
         },
       ],
@@ -62,7 +62,7 @@ const CONFIG = {
   seo: {
     title: 'Portfolio of Harshit Singh',
     description: '',
-    imageURL: 'https://github.com/Harshit-BCS/gitprofile/blob/main/src/assets/gitProfileImg.jpeg',
+    imageURL: './src/assets/gitProfileImg.jpeg',
   },
   social: {
     linkedin: 'Harshit Singh',
@@ -135,7 +135,7 @@ const CONFIG = {
       to: '2021',
     },
   ],
-  publications: [
+  /*publications: [
     {
       title: 'Publication Title',
       conferenceName: '',
@@ -168,7 +168,7 @@ const CONFIG = {
   hotjar: {
     id: '',
     snippetVersion: 6,
-  },
+  },*/
   themeConfig: {
     defaultTheme: 'lofi',
 
