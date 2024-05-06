@@ -234,7 +234,7 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/Harshit-BCS/gitprofile"
+      class="text-primary" href="https://github.com/wittedtech/gitprofile"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
